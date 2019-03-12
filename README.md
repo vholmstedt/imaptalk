@@ -2,8 +2,8 @@
 Training imap reading 
  
 1. Clone the project anywhere in your file system 
-Copy the search path address 
-Go to eclipse
+2. Copy the search path address 
+3. Go to eclipse
 Create new project whil NOT using default location
 Paste the search path address into Location field
 Type a project name and click finish
